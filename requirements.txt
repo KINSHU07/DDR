@@ -6,3 +6,4 @@ tiktoken
 pandas
 numpy
 PyMuPDF
+groq
