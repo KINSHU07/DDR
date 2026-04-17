@@ -1,6 +1,7 @@
-groq==0.11.0
-pymupdf==1.24.10
-python-docx==1.1.2
-Pillow==10.4.0
-streamlit==1.38.0
-python-dotenv==1.0.1
+streamlit
+langchain
+faiss-cpu
+openai
+tiktoken
+pandas
+numpy
