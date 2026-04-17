@@ -8,3 +8,4 @@ numpy
 PyMuPDF
 groq
 python-dotenv
+python-docx
